@@ -1,5 +1,5 @@
 # SpectralAR: Spectral Autoregressive Visual Generation
-### [[Paper]](https://arxiv.org/abs/tobedone) [[Project]](https://huang-yh.github.io/spectralar/)
+### [[Paper]](https://arxiv.org/abs/2506.10962) [[Project]](https://huang-yh.github.io/spectralar/)
 
 > SpectralAR: Spectral Autoregressive Visual Generation
 
@@ -12,7 +12,7 @@ We propose a Spectral AutoRegressive (SpectralAR) visual generation framework, w
 ![teaser](./assets/teaser.png)
 
 ## News.
-- **[2024/12/14]** Paper released on [arXiv](https://arxiv.org/abs/tobedone).
+- **[2024/12/14]** Paper released on [arXiv](https://arxiv.org/abs/2506.10962).
 - **[2024/12/14]** Demo release.
 
 ## Demo
@@ -43,5 +43,13 @@ We will release the code soon.
 
 If you find this project helpful, please consider citing the following paper:
 ```
-tobedone
+@misc{huang2025spectralarspectralautoregressivevisual,
+      title={SpectralAR: Spectral Autoregressive Visual Generation}, 
+      author={Yuanhui Huang and Weiliang Chen and Wenzhao Zheng and Yueqi Duan and Jie Zhou and Jiwen Lu},
+      year={2025},
+      eprint={2506.10962},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.10962}, 
+}
 ```
