@@ -12,8 +12,8 @@ We propose a Spectral AutoRegressive (SpectralAR) visual generation framework, w
 ![teaser](./assets/teaser.png)
 
 ## News.
-- **[2024/12/14]** Paper released on [arXiv](https://arxiv.org/abs/2506.10962).
-- **[2024/12/14]** Demo release.
+- **[2025/06/13]** Paper released on [arXiv](https://arxiv.org/abs/2506.10962).
+- **[2025/06/13]** Demo release.
 
 ## Demo
 
